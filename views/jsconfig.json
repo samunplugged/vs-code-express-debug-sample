@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES3"
+    },
+    "files": [
+        "public/**/*.js"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
